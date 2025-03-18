@@ -6,6 +6,8 @@
 
 All participants must sign an agreement before accessing the datasets on their original platforms. Competition organizers will not provide raw data directly to participants. Instead, extracted OpenFace features, affect features from pretrained models, and Mel spectrograms (generated using PyTorch) are provided [here](https://entuedu-my.sharepoint.com/personal/xiaobao001_e_ntu_edu_sg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxiaobao001%5Fe%5Fntu%5Fedu%5Fsg%2FDocuments%2FResearch%2FMMDD%5Ffeatures&ga=1) (pwd: MMDD123456). These features do not contain any identifiable information.
 
+#### Note： If you do not have an outlook/onedrive account and encounter a downloading issue, please contact xiaobao001@e.ntu.edu.sg and let us know the email account you use to access this OneDrive. We will add your access to this folder.
+
 -   **Training datasets:** [Real-life Deception Detection](https://public.websites.umich.edu/~zmohamed/resources.html) (Real-life Trial), [Bag-of-Lies](https://iab-rubric.org/index.php/bag-of-lies), and the [Miami University Deception Detection Database](https://sc.lib.miamioh.edu/handle/2374.MIA/6067) (MU3D).
 -   **Stage 1 evaluation dataset:** [Box-of-Lies](https://web.eecs.umich.edu/~mihalcea/downloads.html#multimodalDialogDeception).
 -   **Stage 2 testing dataset:** will be released on 9th May, 2025
