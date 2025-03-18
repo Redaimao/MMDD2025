@@ -2,6 +2,9 @@
 
 
 
+
+
+
 ### **Datasets**
 
 All participants must sign an agreement before accessing the datasets on their original platforms. Competition organizers will not provide raw data directly to participants. Instead, extracted OpenFace features, affect features from pretrained models, and Mel spectrograms (generated using PyTorch) are provided [here](https://entuedu-my.sharepoint.com/personal/xiaobao001_e_ntu_edu_sg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxiaobao001%5Fe%5Fntu%5Fedu%5Fsg%2FDocuments%2FResearch%2FMMDD%5Ffeatures&ga=1) (pwd: MMDD123456). These features do not contain any identifiable information.
@@ -19,7 +22,7 @@ Participants are encouraged to download all the datasets as early as possible !!
 
 ## Testing the fusion module
 ```bash
-sh train_test_features.sh
+sh train_test_feature.sh
 ```
 
 ## Training with different modalities and fusion methods
