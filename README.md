@@ -2,9 +2,6 @@
 
 
 
-
-
-
 ### **Datasets**
 
 All participants must sign an agreement before accessing the datasets on their original platforms. Competition organizers will not provide raw data directly to participants. Instead, extracted OpenFace features, affect features from pretrained models, and Mel spectrograms (generated using PyTorch) are provided [here](https://entuedu-my.sharepoint.com/personal/xiaobao001_e_ntu_edu_sg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxiaobao001%5Fe%5Fntu%5Fedu%5Fsg%2FDocuments%2FResearch%2FMMDD%5Ffeatures&ga=1) (pwd: MMDD123456). These features do not contain any identifiable information.
@@ -41,6 +38,15 @@ Please check the ```environment.yml ``` for details
   pages={22135--22145},
   year={2023}
 }
+
+@article{guo2024benchmarking,
+  title={Benchmarking Cross-Domain Audio-Visual Deception Detection},
+  author={Guo, Xiaobao and Yu, Zitong and Selvaraj, Nithish Muthuchamy and Shen, Bingquan and Kong, Adams Wai-Kin and Kot, Alex C},
+  journal={arXiv preprint arXiv:2405.06995},
+  year={2024}
+}
+
 ```
+
 
 
