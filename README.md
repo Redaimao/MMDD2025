@@ -32,7 +32,6 @@ train_balanced_l493_t492_GT.pkl
 
 A sample of loading these files is provided in "Load_DOLOS_data.py"
 
--- the test features are: DOLOS_test_l200_t148.pkl (No labels)
 
 
 - **DOLOS** is a gameshow based deception dataset. The DOLOS dataset can be downloaded from [ROSE Lab, NTU](https://rose1.ntu.edu.sg/dataset/DOLOS/). 
@@ -76,7 +75,6 @@ MDPE_train_balanced_l493_t492_GT.pkl
 
 A sample of loading these files is provide in "Load_MDPE_data.py"
 
--- The test features are: MDPE_test_unbalanced_l1004_t124.pkl; MDPE_test_balanced_l127_t124.pkl (No labels)
 
 - **MDPE** can be found in [data](https://huggingface.co/datasets/MDPEdataset/MDPE_Dataset)
 
