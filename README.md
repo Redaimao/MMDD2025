@@ -8,7 +8,7 @@
 
 ### **Stage 2 Datasets Features Downloading:**
 
-All participants must sign an agreement before accessing the datasets on their original platforms. Competition organizers will not provide raw data directly to participants. Instead, extracted OpenFace features, affect features from pretrained models, and Mel spectrograms (generated using PyTorch) are provided [here](https://entuedu-my.sharepoint.com/:f:/g/personal/xiaobao001_e_ntu_edu_sg/EjSbeaVHhExIp7NJ5SClWZYBP4VaCMR6JJi-PjNijsUbqA?e=y1jlCW) (pwd: MMDD2025). These features do not contain any identifiable information.
+All participants must sign an agreement before accessing the datasets on their original platforms. Competition organizers will not provide raw data directly to participants. Instead, extracted OpenFace features, affect features from pretrained models, and Mel spectrograms (generated using PyTorch) are provided [here](https://entuedu-my.sharepoint.com/:f:/g/personal/xiaobao001_e_ntu_edu_sg/EjSbeaVHhExIp7NJ5SClWZYBP4VaCMR6JJi-PjNijsUbqA?e=A1mYda) (pwd: MMDD2025). These features do not contain any identifiable information.
 
 #### Note： If you do not have an outlook/onedrive account and encounter a downloading issue, please contact xiaobao001@e.ntu.edu.sg and let us know the email account you use to access this OneDrive. We will add your access to this folder.
 
