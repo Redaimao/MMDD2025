@@ -54,13 +54,17 @@ Note that MPDE is very unbalanced; we provide two kinds of train splits. Users c
 1). Unbalanced split (2987 lie samples and 492 truth samples) is separated into three parts:
 
 MDPE_train_unbalanced_1200_part1.txt
+
 MDPE_train_unbalanced_1200_part2.txt
+
 MDPE_train_unbalanced_1079_part3.txt
 
 and the respective extracted features are:
 
 MDPE_train_unbalanced_1200_part1.pkl
+
 MDPE_train_unbalanced_1200_part2.pkl
+
 MDPE_train_unbalanced_1079_part3.pkl
 
 
