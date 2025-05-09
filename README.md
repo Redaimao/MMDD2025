@@ -82,7 +82,7 @@ A sample of loading these files is provide in "Load_MDPE_data.py"
 
 Participants are encouraged to download all the datasets as early as possible !!
 
-**The final test samples are the combination of DOLOS_test_l200_t148.pkl and MDPE_test_balanced_l127_t124.pkl**
+### The final test samples are the combination of DOLOS_test_l200_t148.pkl and MDPE_test_balanced_l127_t124.pkl
 
 
 
