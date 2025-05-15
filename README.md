@@ -14,7 +14,7 @@ All participants must sign an agreement before accessing the datasets 
 
 ### ** Final Test Feature Downloading: **
 
-Please download the test feature from [here](https://drive.google.com/file/d/1p-vQWOXBxAEG0dmaWcDT2jdyt3aWOCeH/view?usp=sharing)
+Please download the test feature from [here](https://drive.google.com/file/d/1p-vQWOXBxAEG0dmaWcDT2jdyt3aWOCeH/view?usp=sharing). Link: https://drive.google.com/file/d/1p-vQWOXBxAEG0dmaWcDT2jdyt3aWOCeH/view?usp=sharing
 
 #### Description:
   #### 1. DOLOS dataset:
