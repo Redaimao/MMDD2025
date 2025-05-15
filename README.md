@@ -12,6 +12,9 @@ All participants must sign an agreement before accessing the datasets 
 
 #### Note： If you do not have an outlook/onedrive account and encounter a downloading issue, please contact xiaobao001@e.ntu.edu.sg and let us know the email account you use to access this OneDrive. We will add your access to this folder.
 
+### ** Final Test Feature Downloading: **
+
+Please download the test feature from [here] (https://drive.google.com/file/d/1p-vQWOXBxAEG0dmaWcDT2jdyt3aWOCeH/view?usp=sharing)
 
 #### Description:
   #### 1. DOLOS dataset:
