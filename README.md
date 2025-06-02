@@ -29,11 +29,11 @@ More details can be found in "Load_DOLOS_face_audio_wave_openface_affect.py"
 
 1). Balanced split (464 lie samples and 365 truth samples) is sampled.
 
-train_balanced_l493_t492_GT.txt
+DOLOS_train_l493_t492_GT.txt
 
 and the extracted features:
 
-train_balanced_l493_t492_GT.pkl
+DOLOS_train_l493_t492.pkl
 
 A sample of loading these files is provided in "Load_DOLOS_data.py"
 
@@ -79,10 +79,10 @@ MDPE_train_balanced_l493_t492_GT.txt
 
 and the extracted features:
 
-MDPE_train_balanced_l493_t492_GT.pkl
+MDPE_train_balanced_l493_t492.pkl
 
 
-A sample of loading these files is provide in "Load_MDPE_data.py"
+A sample of loading these files is provided in "Load_MDPE_data.py"
 
 
 - **MDPE** can be found in [data](https://huggingface.co/datasets/MDPEdataset/MDPE_Dataset)
