@@ -14,8 +14,7 @@ All participants must sign an agreement before accessing the datasets 
 
 ### ** Final Test Feature Downloading: **
 
-Please download the test feature from the OneDrive link above or [here]([https://drive.google.com/file/d/1p-vQWOXBxAEG0dmaWcDT2jdyt3aWOCeH/view?usp=sharing](https://drive.google.com/file/d/11pNBiN8SctjUyI7AP7dNjEMdZs0KZbJY/view?usp=sharing)). Link: [https://drive.google.com/file/d/1p-vQWOXBxAEG0dmaWcDT2jdyt3aWOCeH/view?usp=sharing
-](https://drive.google.com/file/d/11pNBiN8SctjUyI7AP7dNjEMdZs0KZbJY/view?usp=sharing)
+Please download the test feature from the OneDrive link above or [here](https://drive.google.com/file/d/11pNBiN8SctjUyI7AP7dNjEMdZs0KZbJY/view?usp=sharing). Link: https://drive.google.com/file/d/11pNBiN8SctjUyI7AP7dNjEMdZs0KZbJY/view?usp=sharing
 
 (the pickle file saved using numpy==2.1.3 and Pickle protocol version: 4, if you face error when loading the pickle file, please check the package version)
 
